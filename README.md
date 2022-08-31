@@ -1,2 +1,1 @@
-# TP-Infocentre-
-Travail pratique d'Infocentre 
+Hi there!
